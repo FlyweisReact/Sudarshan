@@ -75,7 +75,7 @@ const AdminSubCategory = () => {
   const deleteHandler = async (id) => {
     try {
       const { data } = await axios.delete(
-        `${Baseurl}api/v1/admin/delete/sub/cat/${id}`  ,
+        `${Baseurl}api/v1/admin/delete/sub/cat/`  ,
         Auth
       );
       toast.success("Deleted Successfully");
