@@ -355,12 +355,10 @@ html {
   margin: 0px !important;
   height: 150px !important;
 }
-
 .CarouselImages {
   width: 60px;
   height: auto;
 }
-
 .CarouselImages img {
   width: 100% !important;
   height: 100% !important;
@@ -370,12 +368,10 @@ html {
   width: 100% !important;
   height: 500px !important;
 }
-
 .ModalCarousel {
   width: 100% !important;
   height: 500px !important;
 }
-
 .ModalCarousel img {
   width: 100% !important;
   height: 500px !important;
@@ -386,7 +382,6 @@ html {
   grid-template-columns: auto auto auto;
   justify-content: space-evenly;
 }
-
 .gridCont div {
   width: 400px;
   height: 300px;
@@ -395,11 +390,9 @@ html {
   position: relative;
   margin-top: 20px;
 }
-
 .gridCont div img {
   width: 100%;
 }
-
 .delete-Btn {
   width: 90%;
   margin-left: 2%;
@@ -420,11 +413,9 @@ html {
   width: 300px;
   margin: 0px !important;
 }
-
 .BannerCarouselImage {
   width: 300px;
 }
-
 .BannerCarouselImage img {
   width: 100%;
 }
@@ -436,7 +427,6 @@ html {
   gap: 10px;
   margin-bottom: 20px;
 }
-
 .pagination button {
   border: 1px solid black;
   padding: 10px;
@@ -452,7 +442,6 @@ html {
   background-color: #fff;
   color: #19376d !important;
 }
-
 .prevBtn {
   background-color: #fff;
   color: #19376d;
@@ -467,7 +456,6 @@ html {
   color: #fff;
   border: 1px solid #19376d !important;
 }
-
 .nextBtn {
   background-color: #fff;
   color: #19376d;
@@ -486,7 +474,6 @@ html {
 .dangerBox {
   position: relative;
 }
-
 .dangerBox i {
   position: absolute;
   top: 50%;
@@ -498,7 +485,6 @@ html {
 .centerImage {
   max-width: 300px;
 }
-
 .img-cont {
   display: flex;
   gap: 10px;
@@ -506,11 +492,9 @@ html {
   flex-wrap: wrap;
   align-items: flex-start;
 }
-
 .img-cont div {
   position: relative;
 }
-
 .img-cont div i {
   position: absolute;
   top: 10px;
@@ -524,11 +508,9 @@ html {
   justify-content: space-between;
   margin-top: 20px;
 }
-
 .ud3 {
   width: 49%;
 }
-
 .ud4 {
   width: 49%;
 }
@@ -547,27 +529,22 @@ html {
 #pdfGen {
   margin: 20px;
 }
-
 #pdfGen .Heading-Container {
   display: flex;
   align-items: center;
 }
-
 #pdfGen .Heading-Container img {
   width: 100px;
 }
-
 #pdfGen .Heading-Container .content {
   width: 80%;
   text-align: center;
 }
-
 #pdfGen .Heading-Container .content h2 {
   margin: 0;
   font-weight: bold;
   font-size: 25px;
 }
-
 #pdfGen .Heading-Container .content p {
   margin: 0;
   font-size: 14px;
@@ -581,58 +558,46 @@ html {
   padding-top: 10px;
   gap: 20px;
 }
-
 .two-cont p {
   margin: 0;
 }
-
 .two-cont .left {
   width: 40%;
 }
-
 .two-cont .left h6 {
   font-size: 14px;
   font-weight: bold;
 }
-
 .two-cont .left .box {
   border: 2px solid black;
   width: 100%;
   padding: 8px;
 }
-
 .two-cont .left .box p {
   font-size: 15px;
 }
-
 .two-cont .left .box .strong {
   font-weight: bold;
 }
-
 .two-cont .left .box p {
   font-weight: 600;
 }
-
 .two-cont .right {
   width: 60%;
   border: 2px solid black;
   padding: 10px;
 }
-
 .two-cont .right table {
   width: 100%;
   table-layout: fixed;
 }
-
 .two-cont .right td {
   font-weight: 900 !important;
   padding: 5px;
 }
-
 .bordererd {
   border-right: 2px solid black;
 }
-
 #pdfGen .empty {
   background-color: #000;
   height: 2px;
@@ -650,11 +615,9 @@ html {
   width: 100%;
   margin-top: 20px;
 }
-
 #pdfGen .Table tbody tr {
   border: 1px solid black;
 }
-
 #pdfGen .Table tbody tr td {
   padding: 5px;
   padding-bottom: 10px;
@@ -668,7 +631,6 @@ html {
   gap: 50px;
   align-items: center;
 }
-
 #pdfGen .Main_Table p {
   font-weight: 900;
 }
@@ -680,13 +642,11 @@ html {
   border-bottom: 2px solid black;
   padding: 4px;
 }
-
 #pdfGen .below_Div .four-sec p {
   margin: 0;
   font-size: 13px;
   text-align: center;
 }
-
 #pdfGen .below_Div .four-sec .stronger {
   font-weight: bold;
 }
@@ -701,7 +661,6 @@ html {
   margin: 0;
   padding-bottom: 10px;
 }
-
 #pdfGen .below_Div .text-cont p {
   margin: 0;
   font-weight: 700;
